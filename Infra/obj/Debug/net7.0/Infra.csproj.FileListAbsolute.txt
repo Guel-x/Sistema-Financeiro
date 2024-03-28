@@ -9,3 +9,10 @@ C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\Siste
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\refint\Infra.dll
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\Infra.pdb
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\bin\Debug\net7.0\Domain.dll
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\bin\Debug\net7.0\Entities.dll
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\bin\Debug\net7.0\Entities.pdb
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\Infra.sourcelink.json
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\Infra\obj\Debug\net7.0\Infra.csproj.Up2Date
