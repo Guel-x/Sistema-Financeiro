@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\sistemafinanceiro\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC5061-5754-464F-B99C-635EC591929B}|SistemaFinanceiro\\Entities.csproj|solutionrelative:sistemafinanceiro\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +49,66 @@
     {
       "AbsoluteMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99C388E-42F5-491D-8205-FB653D7DCE90}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\servicos\\usuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\usuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\iusuariosistemafinanceiro\\interfaceusuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuariosistemafinanceiro\\interfaceusuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\idespesa\\interfacedespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idespesa\\interfacedespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\domain\\interfaces\\generics\\interfacegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1361716-351C-47BA-AFED-785A79E3AA71}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\generics\\interfacegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21205C5-BBBF-4954-AF3F-9C773E98E554}|WebApi\\WebApi.csproj|c:\\users\\matusalem\\desktop\\projetos miguel\\projetos\\sistema financeiro\\meu\\sistemawmo\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21205C5-BBBF-4954-AF3F-9C773E98E554}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,53 +133,359 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositorioUsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDAAAAAuAAAA",
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Notificacoes\\Notifica.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Notificacoes\\Notifica.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Notificacoes\\Notifica.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Notificacoes\\Notifica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T14:08:39.708Z",
+              "WhenOpened": "2024-04-01T20:47:35.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EnumTipoDespesa.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Enums\\EnumTipoDespesa.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Enums\\EnumTipoDespesa.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Enums\\EnumTipoDespesa.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Enums\\EnumTipoDespesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:25.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\SistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\SistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Despesa.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\Despesa.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Despesa.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\Despesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Base.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\Base.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\Base.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:15.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SistemaFinanceiro\\Entidades\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\SistemaFinanceiro\\Entidades\\ApplicationUser.cs",
+              "RelativeToolTip": "SistemaFinanceiro\\Entidades\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositorioUsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:47:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RepositorioSistemaFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
               "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
               "RelativeToolTip": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T14:06:26.235Z"
+              "WhenOpened": "2024-04-01T20:47:00.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "RepositorioDespesa.cs",
               "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioDespesa.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioDespesa.cs",
               "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioDespesa.cs",
               "RelativeToolTip": "Infra\\Repositorio\\RepositorioDespesa.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T13:54:16.84Z"
+              "WhenOpened": "2024-04-01T20:46:59.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "RepositorioCategoria.cs",
               "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioCategoria.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioCategoria.cs",
               "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Repositorio\\RepositorioCategoria.cs",
               "RelativeToolTip": "Infra\\Repositorio\\RepositorioCategoria.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T13:33:08.712Z"
+              "WhenOpened": "2024-04-01T20:46:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:56.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioSistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:49.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\CategoriaServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\CategoriaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:44.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InterfaceUsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuarioSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:42.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InterfaceSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:39.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUsuarioSistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:33.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InterfaceDespesa.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\IDespesa\\InterfaceDespesa.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDespesa\\InterfaceDespesa.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\IDespesa\\InterfaceDespesa.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDespesa\\InterfaceDespesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InterfaceCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:21.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InterfaceGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:46:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Matusalem\\Desktop\\Projetos Miguel\\Projetos\\Sistema financeiro\\Meu\\SistemaWMO\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:45:59.718Z",
+              "EditorCaption": ""
             }
           ]
         }

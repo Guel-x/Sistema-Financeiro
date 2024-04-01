@@ -8,7 +8,7 @@ namespace Domain.Interfaces.Generics
 {
     public interface InterfaceGeneric<T> where T : class
     {
-        Task add(T objeto);
+        Task Add(T objeto);
         Task Update(T objeto);
         Task Delete(T objeto);
         Task<T> GetEntityById(int Id);

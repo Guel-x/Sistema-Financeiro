@@ -21,7 +21,7 @@ namespace Infra.Repositorio.Generic
             _OptionsBuilder = new DbContextOptions<ContextBase>();
         }
 
-        public async Task add(T objeto)
+        public async Task Add(T objeto)
         {
             using (var data = new ContextBase(_OptionsBuilder))
             {
