@@ -10,3 +10,4 @@ C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\Siste
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\SistemaFinanceiro\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\SistemaFinanceiro\obj\Debug\net7.0\Entities.pdb
 C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\SistemaFinanceiro\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\Matusalem\Desktop\Projetos Miguel\Projetos\Sistema financeiro\Meu\SistemaWMO\SistemaFinanceiro\obj\Debug\net7.0\Entities.sourcelink.json
